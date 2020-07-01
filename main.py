@@ -2,8 +2,8 @@ import resources
 
 
 def main():
-    print("Hello World")
-    print("Exiting__test")
-    print(resources.calc(2,3))
+    nums = list()
+    nums.append([4,2,8])
+    print(nums[0])
 
 main()
